@@ -1,4 +1,4 @@
-// Assignment Code testtestetstetstets
+// Assignment Code hrun! test
 var generateBtn = document.querySelector("#generate");
 
 // Write password to the #password input
