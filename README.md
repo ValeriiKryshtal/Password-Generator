@@ -4,6 +4,7 @@ The goal of this project was to create a webpage that generates a randomized pas
 
 ##Installation
 All functionality of this project is contained within the deployed webpage itself. Users can navigate to the following address to experience the project: 
+https://valeriikryshtal.github.io/Password-Generator/
 
 ##Usage
 When the user clicks on the "Generate Password" button they will be prompted for how long they want the password to be. Next, they will be asked to confirm if they want to include any of the following as part of their password:
